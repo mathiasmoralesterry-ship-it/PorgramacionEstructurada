@@ -1,4 +1,4 @@
-# DIAGRAMA DE FLUJO DE UNA CLÍNICA EN CÓDIGO
+#Clinica 
 
 print("=== SISTEMA DE ATENCIÓN DE CLÍNICA ===")
 
