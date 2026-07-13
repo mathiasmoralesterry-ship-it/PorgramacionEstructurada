@@ -373,3 +373,5 @@ def abrir_sistema(ventana_bienvenida):
     # ==================
     # PANTALLA INICIAL
     # ==================
+
+    inicio()
